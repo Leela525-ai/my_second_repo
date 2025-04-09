@@ -1,2 +1,6 @@
 This is my first file being pushed to GitHub using Git.
 Learning step by step. 🚀
+
+This is the update to old file.
+I have taken branch out of master I pushed earlier and added this text. 
+This will be my new master i.e., updated file once I push. 
